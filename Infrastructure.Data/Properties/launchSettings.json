@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Infrastructure.Data": {
+      "commandName": "Executable"
+    },
+    "Startup": {
+      "commandName": "Executable"
+    }
+  }
+}
